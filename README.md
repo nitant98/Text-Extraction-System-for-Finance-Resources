@@ -1,9 +1,5 @@
-
-## Assignment2
-Development of a Structured Database and Text Extraction System for Finance Professional Development Resources
+# Text Extraction System for Finance Resources
  
-
-
 ## Problem Statement
 
 The project aims to organize and streamline access to finance professional development resources. It involves compiling 224 refresher readings and topic outlines from the CFA Institute into two key datasets. These datasets will serve as tools for improving the skills of finance professionals. The end objective is to build an intelligent application that utilizes these datasets to offer personalized learning experiences for finance professionals.
